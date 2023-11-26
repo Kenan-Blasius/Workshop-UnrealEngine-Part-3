@@ -2,15 +2,16 @@
 
 ## Introduction
 
-Ce workshop est le troisième d'une série de 3 workshops sur UnrealEngine.
+Bienvenue dans ce workshop UnrealEngine.
 
-Il a pour but de vous apprendre à importer des modèles exterieurs et à créer des particules.
+Dans ce workshop, nous allons voir comment importer des modèles exterieurs et créer des particules.
 
-Ce workshop est découpé en 3 parties :
+Ce workshop est découpé en 4 parties :
 
 - Partie 1 : [Création/Sculpture/Peinture du terrain](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-1)
 - Partie 2 : [Création de décors](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-2)
 - Partie 3 (ce workshop) : [Importation de model exterieur/Création de particule](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-3)
+- Partie 4 : [Apprentissage du Blueprint](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-4)
 
 ## Importation de model exterieur
 
