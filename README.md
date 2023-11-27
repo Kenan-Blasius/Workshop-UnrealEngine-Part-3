@@ -87,7 +87,7 @@ Vous pouvez maintenant voir que la théière a changé de couleur.
 
 Vous pouvez maintenant fermer cette fenêtre.
 
-Nous allons maintenant un mouvement de rotation à la théière.
+Nous allons maintenant ajouter un mouvement de rotation à la théière.
 
 Pour cela, nous allons ajouter un `Rotating Movement` à la théière.
 
@@ -184,11 +184,11 @@ Déplacez votre `Niagara System` pour que les particules sortent de la théière
 
 ![image](assets/ParticleAttachToTeapot.png)
 
-Maintenant si vouss faites `Play`, vous devriez voir les particules sortir de la théière et tourner avec la théière.
+Maintenant si vous faites `Play`, vous devriez voir les particules sortir de la théière et tourner avec la théière.
 
 Retournons maintenant dans notre `Niagara System` pour améliorer notre particule.
 
-Ajouter un `Emitter` (clique-droit sur `Niagara System` > `Add Emitter...`), selectionnez `Empty` et nommez-le `Ribbon`.
+Ajouter un `Emitter` (clique-droit dans le `Niagara System` > `Add Emitter...`), selectionnez `Empty` et nommez-le `Ribbon`.
 
 Sur votre `Ribbon`, supprimez `Sprite Renderer` et créez un `Ribbon Renderer` (`+` à coté de `Render`).
 
